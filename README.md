@@ -60,5 +60,64 @@
 | 4-19          | Exercise 8 Part I
 | 4-20          | Exercise 8 Part II
 | 4-21          | Exercise 9
+| 4-22          | Exercise 10
+| 4-23          | Exercise 11
+|               |
+|               |
+| 5             | Inventories
+| 5-1           | Basic Concepts
+| 5-2           | Recognition Part I
+| 5-3           | Recognition Part II
+| 5-4           | Initial Measurement Part I
+| 5-5           | Initial Measurement Part II
+| 5-6           | Accounting for Inventories
+| 5-7           | Purchase Commitments
+| 5-8           | Subsequent Measurement (Cost Formula)
+| 5-9           | Subsequent Measurement (LCNRV)
+| 5-10          | Inventory Estimation (Basic Concepts)
+| 5-11          | Inventory Estimation (Gross Profit Method)
+| 5-12          | Inventory Estimation (Retail Inventory Method)
+| 5-13          | Exercise 1
+| 5-14          | Exercise 2
+| 5-15          | Exercise 3
+| 5-16          | Exercise 4
+| 5-17          | Exercise 5 Part I
+| 5-18          | Exercise 5 Part II
+| 5-19          | Exercise 6
+| 5-20          | Exercise 7
+| 5-21          | Exercise 8
+| 5-22          | Exercise 9
+| 5-23          | Exercise 10
+| 5-24          | Multiple Choice (Theories)
+|               |
+|               |
+| 6             | Biological Assets
+| 6-1           | Scope and Definition of Terms
+| 6-2           | Recognition and Measurement
+| 6-3           | Gains and Losses
+| 6-4           | Presentation and Disclosure
+| 6-5           | Exercise 1
+| 6-6           | Exercise 2
+| 6-7           | Exercise 3
+| 6-8           | Exercise 4
+| 6-9           | Exercise 5
+| 6-10          | Exercise 6
+| 6-11          | Multiple Choice (Theories)
+|               |
+|               |
+| 7             | Property, Plant, and Equipment (Part I)
+| 7-1           | Definition, Scope, and Recognition
+| 7-2           | Initial Measurement (Part I)
+| 7-3           | Initial Measurement (Part II)
+| 7-4           | Cost of Land
+| 7-5           | Cost of Building
+| 7-6           | Cost of Equipment
+| 7-7           | Exercise 1
+| 7-8           | Exercise 2
+| 7-9           | Exercise 3
+| 7-10          | Exercise 4
+| 7-11          | Exercise 5
+| 7-12          | Exercise 6
+| 7-13          | Multiple Choice (Theories)
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
