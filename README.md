@@ -119,5 +119,115 @@
 | 7-11          | Exercise 5
 | 7-12          | Exercise 6
 | 7-13          | Multiple Choice (Theories)
+|               |
+|               |
+| 8             | Property, Plant, and Equipment (Part II)
+| 8-1           | Change in Accounting Estimate
+| 8-2           | Concept of Depreciation
+| 8-3           | Depreciation Methods (Part I)
+| 8-4           | Depreciation Methods (Part II)
+| 8-5           | Derecognition
+| 8-6           | Revaluation Model (Part I)
+| 8-7           | Revaluation Model (Part II)
+| 8-8           | Subsequent Costs
+| 8-9           | Multiple Choice (Theories)
+| 8-10          | Exercise 1
+| 8-11          | Exercise 2
+| 8-12          | Exercise 3
+| 8-13          | Exercise 4
+| 8-14          | Exercise 5
+| 8-15          | Exercise 6
+| 8-16          | Exercise 7
+| 8-17          | Exercise 8
+| 8-18          | Exercise 9
+| 8-19          | Exercise 10
+|               |
+|               |
+| 9             | Government Grants
+| 9-1           | Definition, Scope, and Recognition
+| 9-2           | Measurement, Accounting, and Presentation of Government Grants
+| 9-3           | Repayments of Grants
+| 9-4           | Multiple Choice
+| 9-5           | Exercise 1
+| 9-6           | Exercise 2
+| 9-7           | Exercise 3
+|               |
+|               |
+| 10            | Borrowing Costs
+| 10-1          | Basic Concepts and Recognition
+| 10-2          | Accounting for Borrowing Costs - Specific Borrowing
+| 10-3          | Accounting for Borrowing Costs - General Borrowing
+| 10-4          | Accounting for Borrowing Costs - Mixed Borrowing
+| 10-5          | Multiple Choice
+| 10-6          | Exercise 1
+| 10-7          | Exercise 2
+| 10-8          | Exercise 3
+| 10-9          | Exercise 4
+|               |
+|               |
+| 11            | Depletion of Mineral Resources
+| 11-1          | Exploration and Evaluation of Assets
+| 11-2          | Cost of Wasting Assets
+| 11-3          | Depletion
+| 11-4          | Accounting for Shutdown
+| 11-5          | Wasting Asset Doctrine
+| 11-6          | Multiple Choice (Theories)
+| 11-7          | Exercise 1
+| 11-8          | Exercise 2
+| 11-9          | Exercise 3
+| 11-10         | Exercise 4
+| 11-11         | Exercise 5
+|               |
+|               |
+| 12            | Intangible Assets
+| 12-1          | Definition and Scope
+| 12-2          | Initial Measurement Part I
+| 12-3          | Initial Measurement Part II
+| 12-4          | Subsequent Measurements and Amortization
+| 12-5          | Other Accounting Issues
+| 12-6          | Major Categories Part I
+| 12-7          | Major Categories Part II
+| 12-8          | Multiple Choice Theories
+| 12-9          | Exercise 1
+| 12-10         | Exercise 2
+| 12-11         | Exercise 3
+| 12-12         | Exercise 4
+| 12-13         | Exercise 5
+| 12-14         | Exercise 6
+| 12-15         | Exercise 7
+|               |
+|               |
+| 13            | Impairment of Assets
+| 13-1          | Basic Concepts and Scope of PAS 36
+| 13-2          | Identification of Impaired Asset
+| 13-3          | Measurement of Recoverable Amount
+| 13-4          | Recognition of Impairment
+| 13-5          | Reversal of Impairment Loss
+| 13-6          | Multiple Choice (Theories)
+| 13-7          | Exercise 1
+| 13-8          | Exercise 2
+| 13-9          | Exercise 3
+| 13-10         | Exercise 4
+| 13-11         | Exercise 5
+|               |
+|               |
+| 14            | Investment in Equity Securities
+| 14-1          | Basic Concepts
+| 14-2          | Classification, Measurement, and Presentation
+| 14-3          | Sale of Investment
+| 14-4          | Accounting for Share Splits, Special Assessments, and Stock Rights
+| 14-5          | Disposal of Investment
+| 14-6          | Accounting for Dividends
+| 14-7          | Accounting for Share Splits, Special Assessments, and Stock Rights
+| 14-8          | Reclassifications and Impairment
+| 14-9          | Exercise 1
+| 14-10         | Exercise 2
+| 14-11         | Exercise 3
+| 14-12         | Exercise 4
+| 14-13         | Exercise 5
+| 14-14         | Multiple Choice (Theories)
+|               |
+|               |
+| 15            | Investment in Associates
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
