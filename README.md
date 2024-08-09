@@ -601,6 +601,22 @@
 | 44-6          | Preparation of Worksheet
 | 44-7          | Closing Entries
 | 44-8          | Reversing Entries
-| 44-
+| 44-9          | Exercise 1
+| 44-10         | Exercise 2
+| 44-11         | Exercise 3
+| 44-12         | Multiple Choice (Theories)
+|               |
+|               |
+| 45            | SMEs
+| 45-1          | Basic Concepts
+| 45-2          | Full PFRS vs PFRS for SMEs vs PFRS for Small Entities
+| 45-3          | Exercise 1
+| 45-4          | Exercise 2
+| 45-5          | Exercise 3
+| 45-6          | Exercise 4
+| 45-7          | Exercise 5
+| 45-8          | Exercise 6
+| 45-9          | Exercise 7
+| 45-10         | Multiple Choice (Theories)
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
