@@ -229,5 +229,78 @@
 |               |
 |               |
 | 15            | Investment in Associates
+| 15-1          | Basic Concepts
+| 15-2          | Measurement
+| 15-3          | Investee with Heavy Losses
+| 15-4          | Intercompany Transactions
+| 15-5          | Changes in Ownership Percentage
+| 15-6          | Presentation and Reporting
+| 15-7          | Straight Problems (Exercise 1)
+| 15-8          | Straight Problems (Exercise 2)
+| 15-9          | Straight Problems (Exercise 3)
+| 15-10         | Straight Problems (Exercise 4)
+| 15-11         | Straight Problems (Exercise 5)
+| 15-12         | Straight Problems (Exercise 6)
+| 15-13         | Multiple Choice (Theories)
+|               |
+|               |
+| 16            | Investment in Debt Securities
+| 16-1          | Basic Concepts
+| 16-2          | Classification, Measurement, and Presentation
+| 16-3          | Disposal of Investments
+| 16-4          | Reclassification
+| 16-5          | Impairment and Reversal of Impairment
+| 16-6          | Exercise 1
+| 16-7          | Exercise 2
+| 16-8          | Exercise 3
+| 16-9          | Exercise 4
+| 16-10         | Exercise 5
+| 16-11         | Multiple Choice (Theories)
+|               |
+|               |
+| 17            | Investment Properties
+| 17-1          | Basic Concepts
+| 17-2          | Other Classification Issues
+| 17-3          | Initial Measurement
+| 17-4          | Subsequent Measurement
+| 17-5          | Transfer
+| 17-6          | Exercise 1
+| 17-7          | Exercise 2
+| 17-8          | Exercise 3
+| 17-9          | Exercise 4
+| 17-10         | Exercise 5
+| 17-11         | Exercise 6
+| 17-12         | Multiple Choice (Theories)
+|               |
+|               |
+| 18            | Funds and Other Investment
+| 18-1          | Cash Surrender Value
+| 18-2          | Bond Sinking Fund
+| 18-3          | Other Long Term Investment
+| 18-4          | Exercise 1
+| 18-5          | Exercise 2
+| 18-6          | Exercise 3
+| 18-7          | Exercise 4
+| 18-8          | Multiple Choice (Theories)
+|               |
+|               |
+| 19            | Not Applicable
+|               |
+|               |
+| 20            | Current Liabilities
+| 20-1          | Basic Concepts and Measurement
+| 20-2          | FS Presentation
+| 20-3          | Specific Current Liabilities Part I
+| 20-4          | Specific Current Liabilities Part II
+| 20-5          | Exercise 1
+| 20-6          | Exercise 2
+| 20-7          | Exercise 3
+| 20-8          | Exercise 4 and 5
+| 20-9          | Exercise 6 and 7
+| 20-10         | Exercise 8 and 9
+| 20-11         | Multiple Choice (Theories)
+|               |
+|               |
+| 21            | Notes Payable
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
