@@ -302,5 +302,110 @@
 |               |
 |               |
 | 21            | Notes Payable
+| 21-1          | Notes Payable
+| 21-2          | Debt Restructuring Part I
+| 21-3          | Debt Restructuring Part II
+| 21-4          | Loans Payable
+| 21-5          | Multiple Choice (Theories)
+| 21-6          | Exercise 1
+| 21-7          | Exercise 2
+| 21-8          | Exercise 3
+| 21-9          | Exercise 4
+| 21-10         | Exercise 5
+| 21-11         | Exercise 6
+| 21-12         | Exercise 7
+|               |
+|               |
+| 22            | Bonds Payable
+| 22-1          | Exercise 1
+| 22-2          | Exercise 2
+| 22-3          | Exercise 3
+| 22-4          | Exercise 4
+| 22-5          | Exercise 5
+| 22-6          | Exercise 6
+| 22-7          | Basic Concepts
+| 22-8          | Classification and Measurement
+| 22-9          | Retirement of Bonds
+| 22-10         | Multiple Choice Theories
+|               |
+|               |
+| 23            | Compound Financial Instruments
+| 23-1          | Basic Concepts
+| 23-2          | Bonds with Share Warrants
+| 23-3          | Convertible Bonds
+| 23-4          | Exercise 1
+| 23-5          | Exercise 2
+| 23-6          | Multiple Choice Theories
+|               |
+|               |
+| 24            | Provisions
+| 24-1          | Definition and Recognition
+| 24-2          | Measurement
+| 24-3          | Recording and Common Types of Provisions
+| 24-4          | Specific Provisions Part I
+| 24-5          | Specific Provisions Part II
+| 24-6          | Exercise 1
+| 24-7          | Exercise 2
+| 24-8          | Exercise 3
+| 24-9          | Exercise 4
+| 24-10         | Exercise 5
+| 24-11         | Exercise 6
+| 24-12         | Exercise 7
+| 24-13         | Multiple Choice
+|               |
+|               |
+| 25            | Employee Benefits
+| 25-1          | Short-Term Employee Benefits
+| 25-2          | Post-Employment Benefits (Defined Contribution Plan)
+| 25-3          | Post-Employment Benefits (Defined Benefit Plan)
+| 25-4          | Termination and Other Long-Term Benefits
+| 25-5          | Exercise 1
+| 25-6          | Exercise 2
+| 25-7          | Exercise 3
+| 25-8          | Exercise 4
+| 25-9          | Exercise 5
+| 25-10         | Exercise 6
+| 25-11         | Exercise 7
+| 25-12         | Exercise 8
+| 25-13         | Multiple Choice (Theories)
+|               |
+|               |
+| 26            | Income Taxes
+| 26-1          | Basic Concepts and Accounting for Deferred Taxes
+| 26-2          | Computation of Tax Expense
+| 26-3          | Initial Recognition of DTA and DTL
+| 26-4          | Tax Allocation and Presentation
+| 26-5          | Exercise 1
+| 26-6          | Exercise 2
+| 26-7          | Exercise 3
+| 26-8          | Exercise 4
+| 26-9          | Exercise 5
+| 26-10         | Exercise 6
+| 26-11         | Exercise 7
+| 26-12         | Multiple Choice (Theories)
+|               |
+|               |
+| 27            | Leases
+| 27-1          | Basic Concepts
+| 27-2          | Accounting for Leases: Lessee Part I
+| 27-3          | Accounting for Leases: Lessee Part II
+| 27-4          | Accounting for Leases: Lessor
+| 27-5          | Operating Leases
+| 27-6          | Sale and Leaseback
+| 27-7          | Exercise 1
+| 27-8          | Exercise 2
+| 27-9          | Exercise 3
+| 27-10         | Exercise 4
+| 27-11         | Exercise 5
+| 27-12         | Exercise 6
+| 27-13         | Exercise 7
+| 27-14         | Exercise 8
+| 27-15         | Exercise 9
+| 27-16         | Exercise 10
+| 27-17         | Exercise 11
+| 27-18         | Multiple Choice (Theories)
+|               |
+|               |
+| 28            | Shareholder's Equity Part I
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
