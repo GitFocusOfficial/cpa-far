@@ -407,5 +407,131 @@
 |               |
 |               |
 | 28            | Shareholder's Equity Part I
+| 28-0          | Shareholder's Equity
+| 28-1          | Components of Shareholder's Equity
+| 28-2          | Issuance, Subscription, and Retirement Part I
+| 28-3          | Issuance, Subscription, and Retirement Part II
+| 28-4          | Treasury Shares Part I
+| 28-5          | Treasury Shares Part II
+| 28-6          | Other Equity Instruments
+| 28-7          | Donation
+| 28-8          | Exercise 1
+| 28-9          | Exercise 2
+| 28-10         | Exercise 3
+| 28-11         | Exercise 4
+| 28-12         | Exercise 5
+| 28-13         | Exercise 6
+| 28-14         | Exercise 7
+| 28-15         | Exercise 8
+| 28-16         | Multiple Choice (Theories)
+|               |
+|               |
+| 29            | Shareholder's Equity Part II
+| 29-1          | Retained Earnings - Basic Concepts
+| 29-2          | Retained Earnings - Dividends Part I
+| 29-3          | Retained Earnings - Dividends Part II
+| 29-4          | Recapitalization
+| 29-5          | Quasi Reorganization
+| 29-6          | Exercise 1
+| 29-7          | Exercise 2
+| 29-8          | Exercise 3
+| 29-9          | Exercise 4
+| 29-10         | Exercise 5
+| 29-11         | Exercise 6
+| 29-12         | Exercise 7
+| 29-13         | Exercise 8
+| 29-14         | Exercise 9
+| 29-15         | Exercise 10
+| 29-16         | Exercise 11
+| 29-17         | Multiple Choice (Theories)
+|               |
+|               |
+| 30            | Share-Based Payments
+| 30-1          | Basic Concepts and Recognition
+| 30-2          | Equity-Settled Share-Based Payments
+| 30-3          | Accounting for Modifications
+| 30-4          | Acceleration of Vesting
+| 30-5          | Cash-Settled Share-Based Payments
+| 30-6          | Choice Between ES and CS
+| 30-7          | Exercise 1
+| 30-8          | Exercise 2
+| 30-9          | Exercise 3
+| 30-10         | Exercise 4
+| 30-11         | Exercise 5
+| 30-12         | Exercise 6
+| 30-13         | Exercise 7
+| 30-14         | Exercise 8
+| 30-15         | Exercise 9
+| 30-16         | Multiple Choice (Theories)
+|               |
+|               |
+| 31            | Book Value per Share
+| 31-1          | Book Value per Share Lecture
+| 31-2          | Exercise 1
+| 31-3          | Exercise 2
+| 31-4          | Exercise 3
+| 31-5          | Exercise 4
+| 31-6          | Multiple Choice (Theories)
+|               |
+|               |
+| 32            | Earnings per Share
+| 32-1          | Basic Concepts
+| 32-2          | Basic EPS
+| 32-3          | Diluted EPS
+| 32-4          | Multiple Potential Ordinary Shares
+| 32-5          | Presentation and Disclosure
+| 32-6          | Exercise 1
+| 32-7          | Exercise 2
+| 32-8          | Exercise 3
+| 32-9          | Exercise 4
+| 32-10         | Exercise 5
+| 32-11         | Exercise 6
+| 32-12         | Exercise 7
+| 32-13         | Exercise 8
+| 32-14         | Exercise 9
+| 32-15         | Exercise 10
+| 32-16         | Multiple Choice (Theories)
+|               |
+|               |
+| 33            | Financial Statements Part I
+| 33-1          | Basic Concepts and Headings and Titles
+| 33-2          | General Features
+| 33-3          | The Complete Set of Financial Statements
+| 33-4          | Statement of Financial Position
+| 33-5          | Exercise 1
+| 33-6          | Exercise 2
+| 33-7          | Exercise 3
+| 33-8          | Multiple Choice (Theories)
+|               |
+|               |
+| 34            | Financial Statements Part II
+| 34-1          | Statement of Comprehensive Income Part I
+| 34-2          | Statemetn of Comprehensive Income Part II
+| 34-3          | Statement of Changes in Equity
+| 34-4          | Notes to Financial Statements
+| 34-5          | Exercise 1
+| 34-6          | Exercise 2
+| 34-7          | Exercise 3
+| 34-8          | Exercise 4
+| 34-9          | Exercise 5
+| 34-10         | Multiple Choice (Theories)
+|               |
+|               |
+| 35            | Statement of Cash Flows
+| 35-1          | Basic Concepts and Classification of Cash Flows
+| 35-2          | Presentation
+| 35-3          | Exercise 1
+| 35-4          | Exercise 2
+| 35-5          | Exercise 3
+| 35-6          | Exercise 4
+| 35-7          | Multiple Choice (Theories)
+|               |
+|               |
+| 36            | Not Applicable
+|               |
+|               |
+| 37            | Operating Segments
+| 37-1          | Basic Concepts
+
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
