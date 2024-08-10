@@ -1,0 +1,196 @@
+/* Basic styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+header {
+    background-color: var(--header-background);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid var(--header-border-color);
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+button#theme-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+button#theme-toggle .theme-icon {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+
+nav {
+    background-color: var(--nav-background);
+    padding: 10px;
+    width: 200px;
+    float: left;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    margin: 5px 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--nav-text-color);
+    display: block;
+    padding: 5px;
+}
+
+nav ul li a:hover {
+    background-color: var(--nav-hover-background);
+}
+
+main {
+    margin-left: 210px; /* Adjust based on the width of the nav */
+    padding: 10px;
+}
+
+#book-content {
+    overflow: auto;
+}
+
+/* Pagination styles */
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.pagination button {
+    margin: 0 5px;
+}
+
+/* Footer styles */
+footer {
+    background-color: var(--footer-background);
+    color: var(--footer-text-color);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 2px solid var(--footer-border-color);
+}
+
+.footer-left, .footer-right {
+    display: flex;
+    align-items: center;
+}
+
+.footer-left {
+    flex-direction: column;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icon {
+    width: 30px;
+    height: auto;
+}
+
+.footer-right {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.footer-section {
+    margin-right: 20px;
+}
+
+.footer-section h3 {
+    margin-top: 0;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-section ul li {
+    margin: 5px 0;
+}
+
+.footer-section ul li a {
+    text-decoration: none;
+    color: var(--footer-link-color);
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Light mode */
+.light-mode {
+    --background-color: #ffffff;
+    --text-color: #000000;
+    --header-background: #f8f9fa;
+    --header-border-color: #e0e0e0;
+    --nav-background: #e9ecef;
+    --nav-text-color: #007bff;
+    --nav-hover-background: #d6d6d6;
+    --button-background: #007bff;
+    --button-text-color: #ffffff;
+    --footer-background: #f8f9fa;
+    --footer-text-color: #000000;
+    --footer-border-color: #e0e0e0;
+    --footer-link-color: #007bff;
+}
+
+/* Dark mode */
+.dark-mode {
+    --background-color: #212529;
+    --text-color: #ffffff;
+    --header-background: #343a40;
+    --header-border-color: #495057;
+    --nav-background: #495057;
+    --nav-text-color: #ffffff;
+    --nav-hover-background: #6c757d;
+    --button-background: #007bff;
+    --button-text-color: #ffffff;
+    --footer-background: #343a40;
+    --footer-text-color: #ffffff;
+    --footer-border-color: #495057;
+    --footer-link-color: #007bff;
+}
