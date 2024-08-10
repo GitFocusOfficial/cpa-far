@@ -5,8 +5,12 @@ body {
     background-color: var(--background-color);
     color: var(--text-color);
     transition: background-color 0.3s, color 0.3s;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
+/* Header styles */
 header {
     background-color: var(--header-background);
     padding: 10px;
@@ -14,8 +18,14 @@ header {
     justify-content: space-between;
     align-items: center;
     border-bottom: 2px solid var(--header-border-color);
+    position: fixed;
+    top: 0;
+    width: calc(100% - 20px); /* Adjust to fit within viewport */
+    z-index: 1000;
+    left: 10px; /* To align with main content and nav */
 }
 
+/* Header left and theme toggle styles */
 .header-left {
     display: flex;
     align-items: center;
@@ -38,19 +48,29 @@ button#theme-toggle {
     padding: 0;
     display: flex;
     align-items: center;
+    margin-left: 10px; /* Spacing from other header items */
 }
 
 button#theme-toggle .theme-icon {
     width: 24px;
     height: 24px;
     vertical-align: middle;
+    overflow: hidden; /* Prevent overflow */
 }
 
+/* Navigation styles */
 nav {
     background-color: var(--nav-background);
     padding: 10px;
     width: 200px;
     float: left;
+    position: fixed;
+    top: 60px; /* Adjusted for header height */
+    bottom: 0;
+    overflow-y: auto;
+    border-right: 2px solid var(--nav-border-color);
+    box-sizing: border-box;
+    margin-right: 10px; /* Space from the right edge */
 }
 
 nav ul {
@@ -74,13 +94,24 @@ nav ul li a:hover {
     background-color: var(--nav-hover-background);
 }
 
+/* Main content styles */
 main {
-    margin-left: 210px; /* Adjust based on the width of the nav */
+    margin-left: 220px; /* Adjust based on the width of the nav */
     padding: 10px;
+    margin-top: 70px; /* Adjusted for header height */
+    padding-right: 20px; /* Added right padding */
+    padding-left: 20px; /* Added left padding */
+    flex: 1;
+    overflow: auto;
+    box-sizing: border-box;
 }
 
+/* Book content styles */
 #book-content {
     overflow: auto;
+    padding: 10px;
+    margin-left: 10px; /* Added margin to space from nav */
+    border: 1px solid var(--border-color); /* Added border for clarity */
 }
 
 /* Pagination styles */
@@ -100,13 +131,19 @@ footer {
     padding: 20px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
     border-top: 2px solid var(--footer-border-color);
+    position: relative;
+    width: calc(100% - 20px); /* Adjust to fit within viewport */
+    left: 10px; /* To align with main content and nav */
+    margin-top: auto; /* Push footer to bottom */
+    box-sizing: border-box;
 }
 
+/* Footer sections */
 .footer-left, .footer-right {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .footer-left {
@@ -176,6 +213,7 @@ footer {
     --footer-text-color: #000000;
     --footer-border-color: #e0e0e0;
     --footer-link-color: #007bff;
+    --border-color: #e0e0e0;
 }
 
 /* Dark mode */
@@ -193,4 +231,5 @@ footer {
     --footer-text-color: #ffffff;
     --footer-border-color: #495057;
     --footer-link-color: #007bff;
+    --border-color: #495057;
 }

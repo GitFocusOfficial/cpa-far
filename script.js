@@ -18,6 +18,96 @@ const books = [
             // Add more chapters as needed
         ]
     },
+    {
+        title: "Auditing",
+        chapters: [
+            {
+                title: "Introduction to Auditing",
+                content: "Detailed content for Introduction to Management Advisory Services."
+            },
+            {
+                title: "Chapter 1: Overview",
+                content: "Detailed content for Chapter 1: Overview."
+            },
+            {
+                title: "Chapter 2: Key Concepts",
+                content: "Detailed content for Chapter 2: Key Concepts."
+            },
+            // Add more chapters as needed
+        ]
+    },
+    {
+        title: "Regulatory Framework for Business Transactions",
+        chapters: [
+            {
+                title: "Introduction to Regulatory Framework for Business Transactions",
+                content: "Detailed content for Introduction to Management Advisory Services."
+            },
+            {
+                title: "Chapter 1: Overview",
+                content: "Detailed content for Chapter 1: Overview."
+            },
+            {
+                title: "Chapter 2: Key Concepts",
+                content: "Detailed content for Chapter 2: Key Concepts."
+            },
+            // Add more chapters as needed
+        ]
+    },
+    {
+        title: "Taxation",
+        chapters: [
+            {
+                title: "Introduction to Taxation",
+                content: "Detailed content for Introduction to Management Advisory Services."
+            },
+            {
+                title: "Chapter 1: Overview",
+                content: "Detailed content for Chapter 1: Overview."
+            },
+            {
+                title: "Chapter 2: Key Concepts",
+                content: "Detailed content for Chapter 2: Key Concepts."
+            },
+            // Add more chapters as needed
+        ]
+    },
+    {
+        title: "Financial Accounting and Reporting Part",
+        chapters: [
+            {
+                title: "Introduction to Financial Accounting and Reporting",
+                content: "Detailed content for Introduction to Management Advisory Services."
+            },
+            {
+                title: "Chapter 1: Overview",
+                content: "Detailed content for Chapter 1: Overview."
+            },
+            {
+                title: "Chapter 2: Key Concepts",
+                content: "Detailed content for Chapter 2: Key Concepts."
+            },
+            // Add more chapters as needed
+        ]
+    },
+    {
+        title: "Advanced Financial Accounting and Reporting",
+        chapters: [
+            {
+                title: "Introduction to Advanced Financial Accounting and Reporting",
+                content: "Detailed content for Introduction to Management Advisory Services."
+            },
+            {
+                title: "Chapter 1: Overview",
+                content: "Detailed content for Chapter 1: Overview."
+            },
+            {
+                title: "Chapter 2: Key Concepts",
+                content: "Detailed content for Chapter 2: Key Concepts."
+            },
+            // Add more chapters as needed
+        ]
+    },
     // Add other books similarly
 ];
 
@@ -68,14 +158,17 @@ function showBookContent() {
     bookContent.innerHTML = content;
 
     // Add event listeners for pagination
-    if (currentChapterIndex > 0) {
-        document.getElementById('prev-chapter').addEventListener('click', () => {
+    const prevButton = document.getElementById('prev-chapter');
+    const nextButton = document.getElementById('next-chapter');
+
+    if (prevButton) {
+        prevButton.addEventListener('click', () => {
             currentChapterIndex--;
             showBookContent();
         });
     }
-    if (currentChapterIndex < book.chapters.length - 1) {
-        document.getElementById('next-chapter').addEventListener('click', () => {
+    if (nextButton) {
+        nextButton.addEventListener('click', () => {
             currentChapterIndex++;
             showBookContent();
         });
@@ -116,9 +209,7 @@ function loadTheme() {
 loadTheme();
 
 // Add event listener for the theme toggle button
-document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
-
+themeToggleButton.addEventListener('click', toggleTheme);
 
 // Initial setup
 loadBooks();
-themeToggleButton.addEventListener('click', toggleTheme);
